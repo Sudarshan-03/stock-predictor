@@ -1,9 +1,10 @@
 streamlit
-numpy
-pandas
+numpy==2.4.4
+pandas==3.0.2
 matplotlib
-scikit-learn
-tensorflow==2.15.0
-joblib
+scikit-learn==1.8.0
+tensorflow==2.21.0
+keras==3.14.0
+joblib==1.5.3
 seaborn
 yfinance
