@@ -3,7 +3,7 @@ numpy
 pandas
 matplotlib
 scikit-learn
-tensorflow-cpu
+tensorflow==2.15.0
 joblib
 seaborn
 yfinance
