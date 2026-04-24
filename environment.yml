@@ -1,0 +1,17 @@
+name: stock-predictor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - streamlit
+      - numpy
+      - pandas
+      - matplotlib
+      - scikit-learn
+      - tensorflow==2.15.0
+      - joblib
+      - seaborn
+      - yfinance
