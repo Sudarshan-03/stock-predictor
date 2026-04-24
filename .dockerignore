@@ -1,0 +1,9 @@
+.venv
+.venv311
+__pycache__
+.streamlit
+.git
+.DS_Store
+*.ipynb
+data/GOOG.csv
+app_old.py
