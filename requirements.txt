@@ -3,7 +3,7 @@ numpy
 pandas
 matplotlib
 scikit-learn
-tensorflow
+tensorflow-cpu
 joblib
 seaborn
-gunicorn 
+yfinance
